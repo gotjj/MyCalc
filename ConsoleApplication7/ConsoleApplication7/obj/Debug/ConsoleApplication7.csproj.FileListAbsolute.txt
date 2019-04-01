@@ -1,0 +1,6 @@
+H:\from J Drive 01072014\_Projects\VisualStudio\NuPractice\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+H:\from J Drive 01072014\_Projects\VisualStudio\NuPractice\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+H:\from J Drive 01072014\_Projects\VisualStudio\NuPractice\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+H:\from J Drive 01072014\_Projects\VisualStudio\NuPractice\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.csprojResolveAssemblyReference.cache
+H:\from J Drive 01072014\_Projects\VisualStudio\NuPractice\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+H:\from J Drive 01072014\_Projects\VisualStudio\NuPractice\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
